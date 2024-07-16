@@ -9,7 +9,7 @@ This project aims to develop and deploy a web application dashboard for visualiz
 The web application provides an interactive dashboard that allows users to explore and analyze car sales advertisements data. The dataset used for this project includes various attributes of cars listed for sale, such as price, model year, condition, odometer reading, and more.
 
 ## Page URL
-You can access the live project at: []()
+You can access the live project at: ["https://github.com/keepitonthedownlaod/triple-ten-project.git"]("https://github.com/keepitonthedownlaod/triple-ten-project.git")
 
 ## Methods and Libraries Used
 
@@ -40,4 +40,3 @@ If you want to run this project on your local machine, follow these steps:
 2. Install the required libraries by running `pip install -r requirements.txt`.
 3. Navigate to the project directory and run `streamlit run app.py`.
 4. Open a web browser and navigate to [http://localhost:8501](http://localhost:8501) to access the application.
-
