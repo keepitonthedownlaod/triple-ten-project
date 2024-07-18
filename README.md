@@ -40,3 +40,7 @@ If you want to run this project on your local machine, follow these steps:
 2. Install the required libraries by running `pip install -r requirements.txt`.
 3. Navigate to the project directory and run `streamlit run app.py`.
 4. Open a web browser and navigate to [http://localhost:8501](http://localhost:8501) to access the application.
+
+I am not sure what happened to my original EDA notebook. I somehow managed to clear it out entirely and didn't even notice. I can't believe I did that. Thank you for your review and encouragement. This was the most challenging project for me so far.
+I have corrected the app and updated my directory with my EDA notebook. The app didn't give me an error so I hope everything is correct and current. 
+
