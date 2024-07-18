@@ -35,6 +35,3 @@ if st.checkbox('Show Model Year vs. Price'):
     fig_model_year = px.scatter(df, x='model_year', y='price', title='Model Year vs. Price')
     st.plotly_chart(fig_model_year)
 
-git add .
-git commit -m "Finalize app.py and update requirements.txt"
-git push
