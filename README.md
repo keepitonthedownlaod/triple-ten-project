@@ -30,7 +30,7 @@ The project includes the following features:
 
 ## Live Demo
 
-You can try out the project live at: [https://sprint-4-project-0cmz.onrender.com](https://sprint-4-project-0cmz.onrender.com)
+You can try out the project live at: [https://triple-ten-project-4.onrender.com](https://triple-ten-project-4.onrender.com)
 
 ## Running the Project Locally
 
